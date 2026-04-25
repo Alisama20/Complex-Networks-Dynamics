@@ -282,4 +282,4 @@ jupyter notebook notebooks/Neural_Networks.ipynb
 
 **A. S. Amari Rabah**
 
-Developed as part of the coursework for *Complex Networks and Nonlinear Systems* — Master's Degree in Physics: Radiation, Nanotechnology, Particles and Astrophysics, University of Granada, Spain.
+Developed as part of the coursework for *Physics of Complex Networks and Interdisciplinary Applications* — Master's Degree in Physics and Mathematics - Fisymat, University of Granada, Spain.
