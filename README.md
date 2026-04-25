@@ -8,8 +8,25 @@ Computational models of dynamics *on* and *of* complex networks, covering three 
 Complex-Networks-Dynamics/
 ├── notebooks/
 │   ├── Neural_Networks.ipynb          # TEMA 4 — neuron models & synapses (Spanish)
+│   ├── Neural_Networks_EN.ipynb       # TEMA 4 — English translation
 │   ├── Social_Dynamics.ipynb          # TEMA 6 — voter model & language competition (Spanish)
-│   └── Ecological_Networks.ipynb      # TEMA 7 — food webs & trophic coherence (Spanish)
+│   ├── Social_Dynamics_EN.ipynb       # TEMA 6 — English translation
+│   ├── Ecological_Networks.ipynb      # TEMA 7 — food webs & trophic coherence (Spanish)
+│   └── Ecological_Networks_EN.ipynb   # TEMA 7 — English translation
+├── codigos/
+│   ├── tema4/
+│   │   ├── Ejercicio1.py              # McCulloch-Pitts logic gates
+│   │   ├── Ejercicio2.py              # Hodgkin-Huxley full model
+│   │   ├── Ejercicio3.py              # Hodgkin-Huxley reduced 2D
+│   │   ├── Ejercicio4.py              # FitzHugh-Nagumo model
+│   │   ├── Ejercicio5.py              # Electrical synapses (diffusive coupling)
+│   │   ├── Ejercicio6.py              # Tsodyks-Markram dynamic synapse
+│   │   └── Ejercicio7.py              # Hopfield network (finite temperature)
+│   ├── tema6/
+│   │   ├── Ejercicio1.py              # Voter model on complex networks
+│   │   └── Ejercicio2.py              # Abrams-Strogatz language competition
+│   └── tema7/
+│       └── Ejercicio1.py              # Niche model, trophic coherence, May stability
 ├── src/
 │   ├── mcculloch_pitts.py             # MP neuron — NOT, AND, OR, XOR gates
 │   ├── hodgkin_huxley.py              # Full 4D HH model (squid giant axon)
